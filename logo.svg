@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512"><title>Ryggsäcken</title>
+<rect width="512" height="512" rx="112" fill="#2c6a59"/>
+<path d="M206,118 C206,78 306,78 306,118" fill="none" stroke="#1d2731" stroke-width="22" stroke-linecap="round"/>
+<path d="M332,78 L346,52 L360,78 L360,150 L332,150 Z" fill="#e0a03a" stroke="#1d2731" stroke-width="7" stroke-linejoin="round"/>
+<path d="M332,78 L360,78 L346,52 Z" fill="#f5f2ea" stroke="#1d2731" stroke-width="7" stroke-linejoin="round"/>
+<rect x="128" y="112" width="256" height="320" rx="72" fill="#f5f2ea"/>
+<path d="M128,206 C128,170 384,170 384,206 L384,226 L128,226 Z" fill="#d8d1c0"/>
+<rect x="166" y="262" width="180" height="134" rx="30" fill="#e0a03a"/>
+<rect x="166" y="262" width="180" height="40" rx="20" fill="#c98a28"/>
+<path d="M216,340 L244,366 L298,314" fill="none" stroke="#1d2731" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="108" y="250" width="24" height="120" rx="12" fill="#d8d1c0"/>
+<rect x="380" y="250" width="24" height="120" rx="12" fill="#d8d1c0"/>
+</svg>
